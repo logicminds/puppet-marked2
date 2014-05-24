@@ -3,7 +3,7 @@
 **[Marked](http://marked2app.com/)** is a previewer for Markdown files. Use it with your favorite text editor and it updates every time you save. With robust features for previewing, reviewing and exporting beautiful documents, you can work in plain text while reveling in rich formatting.
 
 
-[![Build Status](https://travis-ci.org/tarebyte/puppet-marked2.svg?branch=master)](https://travis-ci.org/tarebyte/puppet-marked2)
+[![Build Status](https://travis-ci.org/boxen/puppet-marked2.svg?branch=master)](https://travis-ci.org/boxen/puppet-marked2)
 
 ## Usage
 
